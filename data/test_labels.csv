@@ -1,0 +1,15 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+cmimage(12).jpg,275,183,cloth_mask,61,90,229,163
+cmimage(18).jpg,170,170,cloth_mask,30,105,148,170
+cmimage(21).jpg,194,259,cloth_mask,32,105,153,200
+cmimage(22).jpg,225,225,cloth_mask,8,20,215,204
+cmimage(23).jpg,225,225,cloth_mask,8,32,214,200
+cmimage(24).jpg,194,259,cloth_mask,37,16,162,259
+cmimage(25).jpg,225,225,cloth_mask,55,86,168,167
+cmimage(26).jpg,225,225,cloth_mask,37,71,190,160
+cmimage(9).jpg,183,275,cloth_mask,37,98,142,185
+surmask(1).jpg,283,178,surgical_mask,10,17,265,152
+surmask(2).jpg,234,216,surgical_mask,20,97,157,203
+surmask(3).jpg,225,225,surgical_mask,9,31,216,197
+surmask(4).jpg,225,225,surgical_mask,75,86,157,158
+surmask(5).jpg,225,225,surgical_mask,25,14,225,124
